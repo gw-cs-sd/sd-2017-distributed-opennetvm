@@ -1,6 +1,0 @@
-[submodule "website"]
-	path = website
-	url = git@github.com:gw-cs-sd/sd-2017-distributed-opennetvm.git
-[submodule "onvm"]
-	path = onvm
-	url = git@github.com:phil-lopreiato/openNetVM.git
