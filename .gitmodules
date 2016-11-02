@@ -1,0 +1,4 @@
+[submodule "onvm"]
+	path = onvm
+	url = git@github.com:phil-lopreiato/openNetVM.git
+	branch = senior-design
