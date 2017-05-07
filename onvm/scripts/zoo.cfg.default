@@ -1,0 +1,6 @@
+standaloneEnabled=false
+dataDir=/zookeeper
+syncLimit=5
+tickTime=2000
+initLimit=10
+dynamicConfigFile=/zookeeper/conf/zoo_replicated1.cfg.dynamic
